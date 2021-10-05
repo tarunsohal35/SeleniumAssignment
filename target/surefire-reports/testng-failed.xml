@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="Login(failed)">
+    <classes>
+      <class name="Academy.HomePage">
+        <methods>
+          <include name="Checkout"/>
+          <include name="selectProduct"/>
+          <include name="cart"/>
+          <include name="drop"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- Academy.HomePage -->
+    </classes>
+  </test> <!-- Login(failed) -->
+</suite> <!-- Failed suite [Suite] -->

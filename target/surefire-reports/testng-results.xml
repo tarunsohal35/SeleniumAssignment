@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20665" started-at="2021-10-05T07:29:01Z" finished-at="2021-10-05T07:29:21Z">
+    <groups>
+    </groups>
+    <test name="Login" duration-ms="20665" started-at="2021-10-05T07:29:01Z" finished-at="2021-10-05T07:29:21Z">
+      <class name="Academy.HomePage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Academy.HomePage@67b64c45]" name="initialize" is-config="true" duration-ms="6734" started-at="2021-10-05T12:59:01Z" finished-at="2021-10-05T12:59:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Academy.HomePage@67b64c45]" name="login" duration-ms="384" started-at="2021-10-05T12:59:08Z" finished-at="2021-10-05T12:59:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="drop()[pri:0, instance:Academy.HomePage@67b64c45]" name="drop" duration-ms="3186" started-at="2021-10-05T12:59:08Z" finished-at="2021-10-05T12:59:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drop -->
+        <test-method status="PASS" signature="selectProduct()[pri:0, instance:Academy.HomePage@67b64c45]" name="selectProduct" duration-ms="1489" started-at="2021-10-05T12:59:11Z" finished-at="2021-10-05T12:59:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProduct -->
+        <test-method status="PASS" signature="cart()[pri:0, instance:Academy.HomePage@67b64c45]" name="cart" duration-ms="1088" started-at="2021-10-05T12:59:13Z" finished-at="2021-10-05T12:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method status="PASS" signature="Checkout()[pri:0, instance:Academy.HomePage@67b64c45]" name="Checkout" duration-ms="7651" started-at="2021-10-05T12:59:14Z" finished-at="2021-10-05T12:59:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout -->
+        <test-method status="PASS" signature="Validity()[pri:0, instance:Academy.HomePage@67b64c45]" name="Validity" duration-ms="53" started-at="2021-10-05T12:59:21Z" finished-at="2021-10-05T12:59:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validity -->
+      </class> <!-- Academy.HomePage -->
+    </test> <!-- Login -->
+  </suite> <!-- Suite -->
+</testng-results>
